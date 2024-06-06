@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class ReajusteSalarial {
+
+    public static void main(String[] args) {
+       
+        final double INFLACAO = 3.8;
+
+    
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Digite o salário atual: R$
+
